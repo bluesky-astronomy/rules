@@ -14,4 +14,4 @@ Anyone posting to the Astronomy feeds must follow the rules below:
 ### 4. Attribute content that is not your own.
 > You must credit the original author of any content you post. Where possible, you should link to the original author's content.
 
-If you ever have any concerns or issues, get in touch with @moderation.astronomy.blue or @emily.space.
+If you ever have any concerns or issues, get in touch with [@moderation.astronomy.blue](https://bsky.app/profile/moderation.astronomy.blue) or [@emily.space](https://bsky.app/profile/emily.space).
