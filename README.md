@@ -14,7 +14,7 @@ Anyone posting to the Astronomy feeds must follow the rules below:
 ### 4. Attribute content that is not your own.
 > You must credit the original author/creator of any content you post. Whenever possible, link to the original author/creator’s content.
 
-### 5. Only limited promotion of items for sale is allowed - and they must be astronomy-related.
+### 5. Only limited promotion of items for sale is allowed—and they must be astronomy-related.
 > Independent creators may use the feeds occasionally to promote or sell their astronomy-related work. We ask you to limit your promotional posts to no more than once per day on the main Astronomy feed. Promotional posts should not be the majority of your contributions to the feeds.
 
 
